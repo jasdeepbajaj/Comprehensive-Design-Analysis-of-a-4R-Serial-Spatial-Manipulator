@@ -1,4 +1,4 @@
-##Comprehensive-Design-Analysis-of-a-4R-Serial-Spatial-Manipulator
+### Comprehensive-Design-Analysis-of-a-4R-Serial-Spatial-Manipulator
 
 - Successfully designed and developed a 4 Degree of Freedom (DOF), Serial, Spatial Robot Manipulator, analogous to a Pick-n-Place Arm.
 - Utilized SOLIDWORKS to create a detailed 3D model of the manipulator, ensuring optimal functionality and performance.
